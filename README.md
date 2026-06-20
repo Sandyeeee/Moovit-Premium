@@ -25,6 +25,8 @@ Follow these simple steps to install the ad-free version:
    Install the downloaded APK file on your Android device, open the app, and enjoy a completely ad-free experience!
 
 ---
+## Viruses
+For any valid concerns, you can check: [VirusTotal](https://www.virustotal.com/gui/file/f4d567c093573d4501880dba13ded2bf5b0f5674abb0f2d8e6f34448baa65857?nocache=1)
 
 ## ⚖️ Legal / DMCA
 For any DMCA or content removal requests, please contact: **sandclaimer2@gmail.com**
